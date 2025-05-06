@@ -11,6 +11,7 @@ int main()
     {
     case 1:
         cout << n << "es un numero impar\n";
+        cout << n << "es un numero impar\n";
         break;
     case 0:
         cout << n << "es un numero par \n";
